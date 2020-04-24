@@ -5,3 +5,7 @@ Simple mathematical calculator based on html, css and javascript.
 - Back end: script.js
 # Screenshot:
 ![](Screenshot/calculator.jpg)
+# Made with:
+- HTML
+- CSS
+- Javascript
