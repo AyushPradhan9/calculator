@@ -9,6 +9,12 @@ body {
     background: linear-gradient(45deg,#434343,#000000,#434343);
 }
 
+@media all and (max-width: 850px){
+    body{
+        background-color: #434343;
+    }
+}
+
 .main{
     position: absolute;
     top: 50%;
